@@ -4,7 +4,7 @@ A Flutter-based Employee Management Application built with **GetX, REST API, Rep
 
 ## 🌐 Live Demo
 
-**Application:** https://chetra-employee-app-2026.web.app
+**Application:** https://kheangphearun-employee-app-2026.web.app
 
 **Backend API:** https://employee-management-app-d8tt.onrender.com
 
