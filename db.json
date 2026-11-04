@@ -1,0 +1,138 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Dara",
+      "lastName": "Sok",
+      "email": "dara@gmail.com",
+      "phone": "012345678",
+      "image": "",
+      "company": {
+        "department": "Pharmacy"
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Sokha",
+      "lastName": "Chan",
+      "email": "sokha@gmail.com",
+      "phone": "098765432",
+      "image": "",
+      "company": {
+        "department": "Network"
+      }
+    },
+    {
+      "firstName": "Long",
+      "lastName": "Lychean",
+      "email": "lychean@gmail.com",
+      "phone": "098765432",
+      "image": "",
+      "company": {
+        "department": "Massage"
+      },
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "TP-Link WiFi Router",
+      "description": "Dual-band wireless router for home and office networking.",
+      "price": 45.99,
+      "thumbnail": "https://placehold.co/600x400/png?text=TP-Link+Router",
+      "rating": 4.5,
+      "category": "Router"
+    },
+    {
+      "id": 2,
+      "title": "Cisco Network Switch",
+      "description": "24-port Gigabit Ethernet network switch.",
+      "price": 129.99,
+      "thumbnail": "https://placehold.co/600x400/png?text=Cisco+Switch",
+      "rating": 4.8,
+      "category": "Switch"
+    },
+    {
+      "id": 3,
+      "title": "Ubiquiti Access Point",
+      "description": "Wireless access point for business network coverage.",
+      "price": 89.99,
+      "thumbnail": "https://placehold.co/600x400/png?text=Access+Point",
+      "rating": 4.6,
+      "category": "Access Point"
+    },
+    {
+      "id": 4,
+      "title": "Cat6 Ethernet Cable",
+      "description": "High-speed Cat6 Ethernet cable for LAN connections.",
+      "price": 12.5,
+      "thumbnail": "https://placehold.co/600x400/png?text=Cat6+Cable",
+      "rating": 4.3,
+      "category": "Cable"
+    },
+    {
+      "id": 5,
+      "title": "Fortinet Firewall",
+      "description": "Network security firewall for enterprise protection.",
+      "price": 399.99,
+      "thumbnail": "https://placehold.co/600x400/png?text=Firewall",
+      "rating": 4.9,
+      "category": "Firewall"
+    },
+    {
+      "id": 6,
+      "title": "SFP+ Fiber Transceiver",
+      "description": "10 Gigabit fiber optic transceiver module.",
+      "price": 35,
+      "thumbnail": "https://placehold.co/600x400/png?text=SFP+Transceiver",
+      "rating": 4.4,
+      "category": "Fiber"
+    },
+    {
+      "id": 7,
+      "title": "PoE Network Switch",
+      "description": "8-port PoE switch for IP cameras and access points.",
+      "price": 75,
+      "thumbnail": "https://placehold.co/600x400/png?text=PoE+Switch",
+      "rating": 4.5,
+      "category": "Switch"
+    },
+    {
+      "id": 8,
+      "title": "Network Rack Cabinet",
+      "description": "Wall-mounted rack cabinet for network equipment.",
+      "price": 110,
+      "thumbnail": "https://placehold.co/600x400/png?text=Network+Rack",
+      "rating": 4.2,
+      "category": "Rack"
+    },
+    {
+      "title": "Access Point",
+      "description": "No",
+      "price": 35,
+      "thumbnail": "https://www.amazon.com/Computer-Networking-Wireless-Access-Points/b?ie=UTF8&node=1194486",
+      "rating": 5,
+      "category": "Router",
+      "id": 9
+    },
+    {
+      "title": "Access Point",
+      "description": "No",
+      "price": 35,
+      "thumbnail": "https://www.amazon.com/Computer-Networking-Wireless-Access-Points/b?ie=UTF8&node=1194486",
+      "rating": 5,
+      "category": "Router",
+      "id": 10
+    },
+    {
+      "title": "Access Point",
+      "description": "No",
+      "price": 35,
+      "thumbnail": "https://www.amazon.com/Computer-Networking-Wireless-Access-Points/b?ie=UTF8&node=1194486",
+      "rating": 5,
+      "category": "Router",
+      "id": 11
+    }
+  ]
+}
